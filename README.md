@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on developing startups
 - 🤔 I’m looking for help with CNN & other Deep learning algorithms!
 - 😄 Check My Website for More Information About me!
+- https://bilal-hamdanieh.github.io/bilal-hamdanieh

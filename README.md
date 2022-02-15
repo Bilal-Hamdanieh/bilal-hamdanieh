@@ -10,7 +10,7 @@ I'm 19 years old, a Senior Bioinformatics Undergraduate at the Lebanese American
 
 
 **Collaborate with Me:**   
-If you are interested in the above fields, I'm open to any interesting suggestions.   
+If you are interested in any of the above fields, I'm open to any interesting suggestions!   
 
 **Ask me for Help:**   
 Contact me through bilal.hamdanieh@lau.edu   

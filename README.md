@@ -6,7 +6,7 @@ I'm 19 years old, a Senior Bioinformatics Undergraduate at the Lebanese American
 2- Data Analytics for Data-oriented Design & Business performance analysis.   
 3- I/O Psychology to understand effective Departmental & Team organization.   
 4- Cryptocurrency, Blockchain & Trading for multiple hundred reasons.   
-5- Theology & Comparative Religion for personal & global reasons.   
+5- Theology & Comparative Religion for personal development & assessing macro-human behavior.  
 
 
 **Collaborate with Me:**   

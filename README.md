@@ -1,43 +1,108 @@
-### Hi there I'm Bilal Hamdanieh!👋
-Greetings from a multifaceted professional who has woven a diverse tapestry of skills and experiences across the domains of bioinformatics, data science, AI development, and more. Whatever your vision is, however complex, share it with me and Ill turn it into a reality!
+# Bilal Hamdanieh
 
-Studied at the Lebanese American University
-- Bachelors in Bioinformatics with High Distinction and Honors
-- Master Courses in Data Science
-- Minor Courses in Data Analytics
+**AI Engineer @ Marr Labs** — building production-grade LLM systems, agent orchestration, and data/ML foundations that ship reliably.
 
-My passion is to harness the vast potential of data to innovate and bring forth solutions that serve
-society in diverse fields, from finance, healthcare to lifestyle. With expertise spanning across the
-financial tech sector, bioinformatics, general data analytics, and I/O psychology, I am particularly
-keen on bridging the gaps between these disciplines to produce results that cater to the dynamic
-needs of the modern world.
-Areas of Interest:
-1. Financial Data Science: Harnessing the power of data to drive innovations in the fintech
-sector, from creating intuitive business dashboards to building predictive machine learning
-models, expertise in Credit Risk Modeling, Fraud Detection and Customer Segmentation.
-2. AI Integration and Framework Development: Specializing in the development and integration of AI technologies, including Text-to-Speech (TTS), Automatic Speech Recognition (ASR), and text-to-text processing for versatile applications. Expertise in crafting custom AI frameworks to enhance app functionalities and user experiences, ensuring seamless interaction between humans and technology.
-3. ETL & Data Pipeline Architecture: Designing and implementing robust ETL processes to ensure
-seamless data flow, preparation, and readiness for analytics and modeling.
-4. Modeling & Algorithm Development: Leveraging machine learning techniques to uncover
-patterns, make predictions, and derive actionable insights, particularly within the financial
-sector.
-5. Data Visualization & Reporting: Creating intuitive, interactive dashboards and visualizations
-to represent complex data findings and inform strategic decisions.
-6. Big Data Technologies: Using tools and platforms (expertise in Spark) to process, analyze, and
-derive insights from vast datasets in real-time.
+📍 Lebanon (Keserwan-Jbeil) · 🌍 Working with global teams  
+🔧 Focus: **LLM infrastructure · agent orchestration · evaluation & reliability · data/ML engineering**
 
-Data Science Expertise at Lucky Financial (Since August 15th, 2022): Spearheaded the development and deployment of specialized machine learning models for Credit Default and Spend Modeling, enhancing automatic decision-making processes. Championed data integrity and fairness, devised dynamic dashboards for strategic insights, automated workflows via Databricks, and led data collaboration efforts through AWS. Demonstrated exceptional operational efficiency, managing over 200 tasks within a year, showcasing a blend of technical prowess and collaborative success.
+---
 
-Research Contributions at LAU (2019 - 2022): As a researcher, I led the training and testing of advanced ensemble deep learning models, utilizing Keras & TensorFlow. My work focused on both utilizing pre-trained models and developing custom models from scratch, contributing valuable insights and innovations in machine learning and deep learning methodologies.
+## About me
 
-Educational Impact as a Private Tutor: At the Lebanese American University, I've had the privilege of mentoring students in Data Structures & Algorithms, employing a teaching approach that bridges theoretical concepts with their practical applications. This role allowed me to simplify complex algorithmic theories, making them accessible and relevant to students' future careers in technology. I've tutored people in different countries: UK, Armenia, Georgia, USA.
+I turn messy real-world problems into **scalable, observable, and safe** AI systems—especially in high-stakes, customer-facing environments.
 
+In simple terms: **I build the systems behind AI agents** so they perform consistently in real products—fast, safe, and scalable.
 
-**Collaborate with Me:**   
-If you are interested in any of the above fields, I'm open to any interesting suggestions!   
+---
 
-**Ask me for Help:**   
-Contact me through hamdaniehb2@gmail.com
+## What I work on
 
-**Website:**   
-COMING SOON
+### 🤖 LLM Systems & Orchestration
+- Real-time inference services (low latency, scalable routing, dialogue control)
+- Tool-use workflows, evaluation loops, and reliability mechanisms
+- Prompt engineering + staying current on modern LLM tooling and best practices
+
+### ☎️ Applied AI in Customer Operations
+- LLM services powering **AI Voice Agents** for real customer conversations
+- Production robustness: failure modes, regression checks, consistency improvements
+
+### 🧱 Data Engineering & Pipelines
+- ETL design, data quality, feature readiness, analytics foundations
+- Workflow automation for dependable data delivery to teams
+
+### 📈 ML Modeling & Decision Systems
+- Credit risk, spend modeling, fraud patterns, segmentation
+- Emphasis on fairness, measurable impact, and decision reliability
+
+### 📊 Analytics & Visualization
+- Dashboards and reporting that turn complex signals into business decisions
+
+---
+
+## Experience
+
+**Marr Labs — AI Engineer** *(Jan 2024 – Present)*  
+- Core LLM services + orchestration layer for AI voice agents  
+- Evaluation/reliability systems (testing, regression checks)  
+- Cross-functional work with engineering/product on deployments
+
+**Lucky ONE — Data Scientist** *(Aug 2022 – Apr 2024)*  
+- Credit default & spend modeling (development, retraining, deployment)  
+- Dataset integrity & fairness checks  
+- Dashboards across credit cycles, transactions, user insights  
+- Automated workflows (Databricks) + data sharing (AWS)  
+- Version control + collaboration (Bitbucket)  
+- Delivered 150+ operational tasks across models, pipelines, workflows
+
+**Upwork — Freelance (5★)** *(Apr 2020 – Jan 2024)*  
+- Data analysis & reporting  
+- RNA-Seq analysis + differential expression workflows  
+- Data management for satellite imagery ML company  
+- R tutoring, data structures & algorithms tutoring, Python ML/statistics projects
+
+**Private Tutor** *(Jan 2020 – Jan 2024)*  
+- Mentored students in Data Structures & Algorithms and CS-related courses  
+- Local (Lebanon) + remote mentoring (incl. University of York students)
+
+---
+
+## Education
+
+🎓 **B.S. Bioinformatics**, Lebanese American University *(2019 – 2022)*
+
+---
+
+## Skills
+
+- **LLMs:** prompt engineering, orchestration, evaluation, reliability testing
+- **Data/ML:** pipelines, modeling, feature readiness, decision systems, fairness
+- **Analytics:** dashboards, reporting, data visualization
+- **Voice/Telephony:** VoIP (applied in real conversational systems)
+
+---
+
+## Certifications
+
+- **NVIDIA DLI — Certificate in Fundamentals of Deep Learning (DLI C-FX-01)**
+
+---
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/bilalhamdanieh
+- Portfolio: https://bilal-hamdanieh.github.io/bilal-hamdanieh
+
+---
+
+## Contact
+
+- Email: hamdaniehb2@gmail.com
+
+---
+
+### (Optional) GitHub widgets
+
+> Add these if you want a more “profile README” vibe. Replace `<USERNAME>` with your GitHub username.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-Hamdanieh&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Hamdanieh&layout=compact)

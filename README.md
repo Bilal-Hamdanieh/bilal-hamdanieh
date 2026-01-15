@@ -99,10 +99,3 @@ In simple terms: **I build the systems behind AI agents** so they perform consis
 - Email: hamdaniehb2@gmail.com
 
 ---
-
-### (Optional) GitHub widgets
-
-> Add these if you want a more “profile README” vibe. Replace `<USERNAME>` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-Hamdanieh&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Hamdanieh&layout=compact)
